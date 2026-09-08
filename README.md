@@ -238,3 +238,6 @@ This repository serves as the official landing page for oCam. The software is di
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of oCam today!**
+
+---
+**Last updated:** 2026-09-08 14:10:22 UTC
