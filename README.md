@@ -240,4 +240,4 @@ This repository serves as the official landing page for oCam. The software is di
 **Get the most recent version of oCam today!**
 
 ---
-**Last updated:** 2026-10-07 22:46:57 UTC
+**Last updated:** 2026-10-08 02:33:06 UTC
